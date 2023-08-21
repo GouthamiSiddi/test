@@ -1,0 +1,7 @@
+{{#user}}
+Name: GouthamiSiddi
+Skills: HTML, CSS, JS, Next.js
+Email: gouthami.siddi@gmail.com
+{{#user}}
+
+
